@@ -1,2 +1,2 @@
 select * from teachers;
-order by salary desc;
+order by salary asc;
